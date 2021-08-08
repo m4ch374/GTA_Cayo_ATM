@@ -7,6 +7,10 @@ Disable GTA's access to the internet with a click of a button
 * So you can grind the Cayo Perico Heist while listening to Spotify or something.
 * Since it disables GTA's access to the internet, it could also be used as a way to open a solo public lobby
 
+## Installation:
+1. Download "GTA Cayo ATM" from Releases
+2. Extract file content
+
 ## Warnings:
 In order for the program to work properly, make sure you had Windows Firewall **Enabled**
 
