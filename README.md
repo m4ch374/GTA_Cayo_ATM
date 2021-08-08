@@ -4,7 +4,7 @@ Disable GTA's access to the internet with a click of a button
 ## Usage:
 
 * This program disables GTA's access to the internet, so you can do the Cayo Perico Heist replay gitch without disconnecting your system's access to the internet.
-* You can grind Cayo Perico Heist while listening to Spotify or something.
+* So you can grind the Cayo Perico Heist while listening to Spotify or something.
 * Since it disables GTA's access to the internet, it could also be used as a way to open a solo public lobby
 
 ## How to use:
