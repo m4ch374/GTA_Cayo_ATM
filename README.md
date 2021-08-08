@@ -15,4 +15,5 @@ Markup:
 2. Select file path to GTA's executable file
 3. Click the 'Click me' button
 
+## Special Thanks:
 Special thanks to [WindowsFirewallHelper](https://github.com/falahati/WindowsFirewallHelper) made by [falahati](https://github.com/falahati)
