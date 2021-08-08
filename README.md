@@ -7,10 +7,12 @@ Disable GTA's access to the internet with a click of a button
 * So you can grind the Cayo Perico Heist while listening to Spotify or something.
 * Since it disables GTA's access to the internet, it could also be used as a way to open a solo public lobby
 
-## How to use:
+## Warnings:
 In order for the program to work properly, make sure you had Windows Firewall **Enabled**
 
 **Do not** use it before GTA is launched or else you will not be able to access GTA Online
+
+## How to use:
 
 1. Make sure Windows Firewall is **Enabled**
 2. Select file path to GTA's executable file
