@@ -1,5 +1,5 @@
 # GTA_Cayo_ATM
-Disable GTA's access to the internet with a click of a button
+Disable GTA's access to the internet with a click of a button:
 
 ## Usage:
 
@@ -21,6 +21,9 @@ In order for the program to work properly, make sure you had Windows Firewall **
 1. Make sure Windows Firewall is **Enabled**
 2. Select file path to GTA's executable file
 3. Click the 'Click me' button
+
+## Screenshot:
+<img src="/Sample_Screenshots/application.png" alt="sampe screenshot"/>
 
 - - - -
 Special thanks to [WindowsFirewallHelper](https://github.com/falahati/WindowsFirewallHelper) made by [falahati](https://github.com/falahati)
